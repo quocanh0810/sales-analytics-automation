@@ -1,0 +1,3 @@
+*.csv
+env/
+pycache/git rm --cached *.csv
